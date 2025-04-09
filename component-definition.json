@@ -333,7 +333,7 @@
           }
         },
         {
-          "title": "Quote",
+          "title": "QuoteSSS",
           "id": "quote",
           "plugins": {
             "xwalk": {
