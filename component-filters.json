@@ -10,6 +10,7 @@
   {
     "id": "section-marketing",
     "components": [
+      "fiberoffer",
       "text",
       "image",
       "button",
@@ -27,13 +28,13 @@
       "tabs",
       "video",
       "icon-block",
-      "content-fragment-offer",
-      "fiberoffer"
+      "content-fragment-offer"
     ]
   },
   {
     "id": "section",
     "components": [
+     "fiberoffer",
       "text",
       "image",
       "button",
@@ -61,8 +62,7 @@
       "commerce-cart",
       "commerce-checkout",
       "commerce-order-confirmation",
-      "columnsjo",
-      "fiberoffer"
+      "columnsjo"
     ]
   },
   {
